@@ -17,4 +17,6 @@ Sample website with plenty of files for demos
 
 ##in staging area only
 
-## local working directory
+## local working director
+
+inside master change for rebasing
