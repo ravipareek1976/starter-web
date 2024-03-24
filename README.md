@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 ## This is in coomited in local repo only
 
 ## Second"This is in coomited in local repo only
+
+##in staging area only
+
+## local working directory
